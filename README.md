@@ -1,12 +1,14 @@
-# Hello 👋
+## Hello 👋
 
-Welcome to my GitHub profile! This is an expanse where I showcase my coding journey and projects.
+I'm **Chijioke Nwabasili**, a Frontend Web Developer focused on building clean, responsive websites that don’t just look good, but actually convert.
 
-## About Me
+I work with small businesses, helping them build fast, user-friendly interfaces that guide visitors and drive real inquiries.
 
-I'm Chijioke Nwabasili, a **Frontend Web Developer** with hands-on experience building responsive, accessible, and performance-focused websites using HTML, CSS, and JavaScript. I focus on turning designs into clear, usable interfaces that guide users, support business goals, and work reliably across devices.
+## What I Do
 
-I'm committed to building digital solutions that deliver smooth experiences for users and real results for teams and clients. Outside of development, I enjoy listening to music, often looping a single track while working through problems.
+- Build responsive websites using HTML, CSS, and JavaScript 
+- Improve website structure for better user flow and engagement
+- Focus on performance, clarity, and real-world usability
 
 ## Tech Stack
 
@@ -21,15 +23,17 @@ I'm committed to building digital solutions that deliver smooth experiences for 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Currently
+## Featured Projects
+- **Ilisabawn Website**
+A responsive, multi-page website for a custom handmade footwear brand, built to showcase craftsmanship and product collections in a clear, organized way that helps visitors explore products and place custom orders, improving engagement and purchase decisions.
 
-- Sharpening JavaScript skills to create more interactive and dynamic web experiences.
-- Exploring modern frontend tools and workflows to create efficient, maintainable solutions.
-- Exploring how to bring AI-driven features into frontend projects like smart recommendations, simple chatbots, and adaptive UI elements to create richer, more interactive user experiences.
+## Currently Working On
+
+- Improving JavaScript skills for more dynamic, interactive interfaces 
+- Exploring modern frontend workflows and best practices 
+- Experimenting with simple AI features (chatbots, smart UI behavior) 
 
 ## Connect With Me
-
-Feel free to reach out through any of the links below:
 
 - **Portfolio:** [chijiokenwabasili.vercel.app](https://chijiokenwabasili.vercel.app)
 - **Email:** [Email Me](mailto:chijioke.nwabasili2021@gmail.com)
