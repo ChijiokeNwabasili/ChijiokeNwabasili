@@ -2,7 +2,7 @@
 
 I'm **Chijioke Nwabasili**, a Frontend Web Developer focused on building clean, responsive websites that don’t just look good, but actually convert.
 
-I work with small businesses, helping them build fast, user-friendly interfaces that guide visitors and drive real inquiries.
+I work with service businesses, helping them build fast, user-friendly interfaces that guide visitors and drive real inquiries.
 
 ## What I Do
 
@@ -22,9 +22,6 @@ I work with small businesses, helping them build fast, user-friendly interfaces 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## Featured Projects
-- **Ilisabawn Website** - A responsive, multi-page website for a custom handmade footwear brand, built to showcase craftsmanship and product collections in a clear, organized way that helps visitors explore products and place custom orders, improving engagement and purchase decisions.
 
 ## Currently Working On
 
