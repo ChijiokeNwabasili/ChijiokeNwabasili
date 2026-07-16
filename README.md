@@ -51,6 +51,6 @@ A childcare management dashboard prototype showcasing frontend development, info
 
    **GitHub:** [ChijiokeNwabasili](https://github.com/chijiokenwabasili)
 
-   **X (formerly Twitter):** [chijioke_dev)](https://x.com/chijioke_dev)
+   **X (formerly Twitter):** [chijioke_dev](https://x.com/chijioke_dev)
 
 📧 **Email:** [Email Me](mailto:chijioke.nwabasili2021@gmail.com)
