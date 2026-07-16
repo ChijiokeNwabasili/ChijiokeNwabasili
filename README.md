@@ -45,12 +45,12 @@ A childcare management dashboard prototype showcasing frontend development, info
 
 ## Connect With Me
 
-🌐 **Portfolio:** [https://chijiokenwabasili.vercel.app](https://chijiokenwabasili.vercel.app)
+🌐 **Portfolio:** [chijiokenwabasili.vercel.app](https://chijiokenwabasili.vercel.app)
 
-**LinkedIn:** [LinkedIn](https://linkedin.com/in/chijioke-nwabasili)
+   **LinkedIn:** [Chijioke Nwabasili](https://linkedin.com/in/chijioke-nwabasili)
 
-**GitHub:** [GitHub](https://github.com/chijiokenwabasili)
+   **GitHub:** [ChijiokeNwabasili](https://github.com/chijiokenwabasili)
 
-**X:** [X (formerly Twitter)](https://x.com/chijioke_dev)
+   **X (formerly Twitter):** [chijioke_dev)](https://x.com/chijioke_dev)
 
-📧 **Email:** [Email](mailto:chijioke.nwabasili2021@gmail.com)
+📧 **Email:** [Email Me](mailto:chijioke.nwabasili2021@gmail.com)
