@@ -30,7 +30,7 @@ I believe great websites do more than look good. They should clearly communicate
 - Prioritize clarity over complexity
 - Focus on accessibility and performance by default
 - Combine frontend development with UX and technical SEO
-- Create websites that help businesses generate meaningful inquiries
+- Create websites that help businesses get meaningful inquiries
 
 ## Connect With Me
 
