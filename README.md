@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm **Chijioke Nwabasili**, a **Web Developer** helping service businesses build trust, improve search visibility, and generate more inquiries through fast, accessible, and user-focused websites.
+I'm **Chijioke Nwabasili**, a **Web Developer** helping service businesses build trust, improve search visibility, and get more inquiries through fast, accessible, and user-focused websites.
 
 I believe great websites do more than look good. They should clearly communicate what a business offers, guide visitors toward taking action, and create a better experience for both users and search engines.
 
@@ -23,17 +23,6 @@ I believe great websites do more than look good. They should clearly communicate
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## Featured Projects
-
-### Foldora
-A conversion-focused laundry website concept designed to improve trust, search visibility, and customer inquiries through clear messaging, technical SEO, and user-focused design.
-
-### ILISABAWN
-A business website optimization project focused on improving product clarity, search visibility, and the customer journey for a footwear brand.
-
-### NurtureNest
-A childcare management dashboard prototype showcasing frontend development, information hierarchy, and intuitive user interface design.
 
 ## Core Principles
 
